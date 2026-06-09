@@ -1,0 +1,10 @@
+.bin/
+bin/
+Libs/
+.settings/
+.classpath
+.project
+output/
+report/
+Reports/
+*.log

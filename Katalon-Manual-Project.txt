@@ -1,0 +1,7 @@
+Katalon-Manual-Project/
+├── Object Repository/          <-- Kosongkan saja jika pakai XPath langsung
+├── Test Cases/
+│   └── TC01_API_Test.groovy    <-- Buat file baru dengan ekstensi .groovy
+├── Test Suites/
+├── .gitignore                  <-- Buat file ini untuk Git
+└── config.prj                  <-- File kosong, cuma agar terbaca sebagai project
